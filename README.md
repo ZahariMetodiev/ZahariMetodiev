@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello , I`m Zahari Metodiev 👋
 
-<!--
-**ZahariMetodiev/ZahariMetodiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on me.
+- 🌱 I’m currently learning C# and JavaScript.
+- 👯 I’m looking to collaborate on LinkedIn
+- 💬 Ask me about C# or any tech related stuff.
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/zahari-metodiev-7ab979224/)
+
+
+
+![ZahariMetodiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahariMetodiev&show_icons=true&theme=merko)
