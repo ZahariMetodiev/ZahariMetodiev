@@ -10,4 +10,4 @@
 
 
 
-![ZahariMetodiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahariMetodiev&show_icons=true&theme=merko)
+![ZahariMetodiev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahariMetodiev&show_icons=true&theme=merko)  [**zmetodiev4@gmail.com**]
