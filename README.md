@@ -1,4 +1,3 @@
-### Hello , I`m Zahari Metodiev 👋
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="image/Image1.png" alt="">
 <img style="display: block; margin-left: auto; margin-right: auto; width: 40%;" src="image/Image2.png" alt="">
