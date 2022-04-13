@@ -1,16 +1,7 @@
 ### Hello , I`m Zahari Metodiev 👋
 
-<style>
-    .myDiv{
-        "display: block; margin-left: auto; margin-right: auto; width: 50%;"
-    }
-</style>
-
-<div class="myDiv">
-  <img style= src="image/Image1.png" alt="">
-<img style= src="image/Image2.png" alt="">
-</div
-
+<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="image/Image1.png" alt="">
+<img style="display: block; margin-left: auto; margin-right: auto; width: 40%;" src="image/Image2.png" alt="">
 
 - 🔭 I’m currently working on me.
 - 🌱 I’m currently learning C# and JavaScript.
